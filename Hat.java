@@ -1,5 +1,5 @@
 import org.omg.CORBA.StringHolder;
-
+package com.company;
 public class Hat extends Creature {
     class Hat implements IHat {
 
