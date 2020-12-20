@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+package com.company;
 
 public class Main {
 
