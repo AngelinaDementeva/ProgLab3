@@ -1,3 +1,4 @@
+package com.company;
 public abstract class Creature implements ICreature {
 
     private String name;
